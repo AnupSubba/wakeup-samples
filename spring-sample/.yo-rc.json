@@ -1,0 +1,9 @@
+{
+  "generator-wakeup": {
+    "baseName": "springSample",
+    "applicationName": "SpringSampleApp",
+    "packageName": "org.wakeup",
+    "packageFolder": "org/wakeup",
+    "frameworkType": "spring"
+  }
+}
