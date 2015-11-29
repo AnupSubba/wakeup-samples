@@ -9,6 +9,7 @@ Open the `application.properties` file and set your own configurations for the d
 - Java 7 or above
 - Maven 3 or above
 - MySQL 5 or above
+- IDE (IntelliJ IDea or Eclipse)
 
 #### From terminal
 
