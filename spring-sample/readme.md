@@ -16,5 +16,9 @@ Open the `application.properties` file and set your own configurations for the d
 Go on the project's root folder, then type:
 
     $ mvn spring-boot:run
+    
+Go on the browser:
+
+    http://localhost:1234
 
 
